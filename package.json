@@ -1,7 +1,7 @@
 {
   "name": "comp3104",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://app.travis-ci.com/rutikpatel/COMP3104.svg?branch=main)](https://app.travis-ci.com/rutikpatel/COMP3104)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warning: no tests created yet.\""
